@@ -13,10 +13,11 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopeneer noreferrer"
         >
-          Learn React
+        Site do ReactJs
         </a>
+        <p>Test</p>
       </header>
     </div>
   );
